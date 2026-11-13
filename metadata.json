@@ -1,0 +1,8 @@
+{
+  "name": "CoastMitra",
+  "description": "Direct zero-brokerage coastal stays and curated seafront villas across Goa, Gokarna, Alibaug, and Varkala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
